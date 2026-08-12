@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer on the Search and Recommendations team.
+I'm a Senior Software Engineer on the Search and Recommendations team.
 
 Currently modernising search on the new stack.
 
